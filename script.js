@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
         { day: 'Rabu', time: '08:00 - 10:00', subject: 'Pengantar Teknologi Informasi' },
         { day: 'Rabu', time: '10:00 - 12:00', subject: 'Pancasila' },
         { day: 'Kamis', time: '10.00 - 12.00', subject: 'Pengenalan Pemrograman' },
-        { day: 'kamis', time: '14.00 - 17.00', subject: 'Konsep Sistem Informsi'},
+        { day: 'kamis', time: '14.00 - 17.00', subject: 'Konsep Sistem Informasi'},
         {day: 'jumat', time: '14.00 - 17.00', subject: 'Matematika Diskrit'},
         // Tambahkan jadwal lainnya di sini
     ];
